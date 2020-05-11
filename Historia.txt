@@ -1,0 +1,9 @@
+Este es un ejemplo de como usar GitHub y Git 
+
+Aqui voy a ir ingresando todos los cambios que tenga en el proyecto a lo largo del tiempo.
+
+Estoy probando el commit.
+
+En camara parece alto pero no es tan alto.
+
+Pero si, espeor que ahora si salga.
